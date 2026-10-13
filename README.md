@@ -1,7 +1,7 @@
 # Hi, I'm Rabia 👋
 
 **Adaptable engineer exploring diverse tech domains.**  
-From ML classifiers and signal processing to compilers, blockchain simulations, and reliable transport protocols — I build across the stack and close to the metal.
+From ML classifiers and signal processing to compilers, blockchain simulations, and reliable transport protocols. I build across the stack and close to the metal.
 
 🎓 Computer Engineering, University of Coimbra
 
@@ -9,9 +9,6 @@ From ML classifiers and signal processing to compilers, blockchain simulations, 
 
 ## 🛠 Stack
 `Python` `C` `C++` `Java` `SQL` `Flask` `PostgreSQL` `NumPy` `SciPy`
-
-## 📌 Pinned below
-Explore the projects — each one is a different domain, intentionally.
 
 ---
 
